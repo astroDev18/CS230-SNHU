@@ -15,5 +15,7 @@ If you could choose one part of your work on these documents to revise, what wou
 I might revise my recommendations to include more emphasis on the client experience since that is what the user will be interacting with when they play the game. I would discuss more on the different languages they could use to create better UI's that provide a seamless experience accross different platforms. 
 
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+When I was designing the software I made sure to focus on implementing all of the user requests into their application. If you do not implement their requests, then you are not meeting the project requirements and will face conflict with the user as you progress in building the application. I also considered all technical aspects of their application and tried to recommend the best path forward for developing the application. 
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+When designing software I always took a top-down approach in which I considered the highest level approach and then broke it down into smaller steps. This approach allows me to make progress even when I don't understand the end goal of the app. In the future I want to use common design patterns in my approach so that I can build on what others have already laid out and save myself time. 
